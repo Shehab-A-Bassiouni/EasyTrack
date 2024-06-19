@@ -1,0 +1,2 @@
+# EasyTrack
+ Simple Angular App
